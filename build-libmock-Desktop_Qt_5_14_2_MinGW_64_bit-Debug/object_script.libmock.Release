@@ -1,0 +1,11 @@
+release/libmock.o
+release/main.o
+release/gtest-typed-test.o
+release/gtest-test-part.o
+release/gtest-printers.o
+release/gtest-port.o
+release/gtest-filepath.o
+release/gtest-death-test.o
+release/gtest-all.o
+release/gtest.o
+release/gmock-all.o

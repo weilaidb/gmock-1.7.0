@@ -15,8 +15,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 # In order to do so, uncomment the following line.
 # You can also select to disable deprecated APIs only up to a certain version of Qt.
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
-INCLUDEPATH += "gtest/include/"
-INCLUDEPATH += "gtest/"
+INCLUDEPATH += "gmock/gtest/include/"
+INCLUDEPATH += "gmock/gtest/"
 INCLUDEPATH += "../../"
 INCLUDEPATH += "gmock/include/gmock/"
 INCLUDEPATH += "gmock/include/"
@@ -26,14 +26,14 @@ INCLUDEPATH += "gmock/"
 SOURCES += \
     libmock.cpp \
     main.cpp\
-    gtest/src/gtest-typed-test.cc \
-    gtest/src/gtest-test-part.cc \
-    gtest/src/gtest-printers.cc \
-    gtest/src/gtest-port.cc \
-    gtest/src/gtest-filepath.cc \
-    gtest/src/gtest-death-test.cc \
-    gtest/src/gtest-all.cc \
-    gtest/src/gtest.cc \
+    gmock/gtest/src/gtest-typed-test.cc \
+    gmock/gtest/src/gtest-test-part.cc \
+    gmock/gtest/src/gtest-printers.cc \
+    gmock/gtest/src/gtest-port.cc \
+    gmock/gtest/src/gtest-filepath.cc \
+    gmock/gtest/src/gtest-death-test.cc \
+    gmock/gtest/src/gtest-all.cc \
+    gmock/gtest/src/gtest.cc \
     gmock/src/gmock-spec-builders.cc \
     gmock/src/gmock-matchers.cc \
     gmock/src/gmock-cardinalities.cc \

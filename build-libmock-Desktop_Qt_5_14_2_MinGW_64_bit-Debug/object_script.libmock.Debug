@@ -1,0 +1,11 @@
+debug/libmock.o
+debug/main.o
+debug/gtest-typed-test.o
+debug/gtest-test-part.o
+debug/gtest-printers.o
+debug/gtest-port.o
+debug/gtest-filepath.o
+debug/gtest-death-test.o
+debug/gtest-all.o
+debug/gtest.o
+debug/gmock-all.o
