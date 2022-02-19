@@ -1,1 +1,4 @@
 *.o
+gmock-generated-internal-utils.h.pump
+/out/build-libmock-Desktop_Qt_5_14_2_MinGW_64_bit-Release/include/gmock/gmock-generated-function-mockers.h.pump
+*.pump
