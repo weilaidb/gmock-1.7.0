@@ -1,0 +1,8 @@
+/root/work/git/gmock-1.7.0/mybuild/CMakeFiles/rebuild_cache.dir
+/root/work/git/gmock-1.7.0/mybuild/CMakeFiles/edit_cache.dir
+/root/work/git/gmock-1.7.0/mybuild/CMakeFiles/gmock_main.dir
+/root/work/git/gmock-1.7.0/mybuild/CMakeFiles/gmock.dir
+/root/work/git/gmock-1.7.0/mybuild/gtest/CMakeFiles/rebuild_cache.dir
+/root/work/git/gmock-1.7.0/mybuild/gtest/CMakeFiles/edit_cache.dir
+/root/work/git/gmock-1.7.0/mybuild/gtest/CMakeFiles/gtest_main.dir
+/root/work/git/gmock-1.7.0/mybuild/gtest/CMakeFiles/gtest.dir
